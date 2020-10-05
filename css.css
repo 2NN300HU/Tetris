@@ -1,0 +1,42 @@
+.game {
+    margin: 10px;
+    background-color: black;
+}
+
+.head {
+    height: 50px;
+    width: 400px;
+
+}
+
+.name {
+    text-align: center;
+    font-size: 40px;
+}
+
+.gameArea{
+    width: 420px;
+    position:absolute;
+    left:50%;
+    margin:0 0 0 -210px;
+
+}
+
+.sidebar{
+    width: 180px;
+    height: 810px;
+    position:absolute;
+    left:50%;
+    margin: 50px 0 0 210px;
+}
+
+.gameText{
+    color: white;
+    width: 400px;
+    height: 400px;
+    position:absolute;
+    left:50%;
+    margin: 260px 0 0 -200px;
+    text-align: center;
+    font-size: 42px;
+}
